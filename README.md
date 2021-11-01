@@ -4,4 +4,4 @@
 顯示的部分好像ㄌ
 
 demo影片:
-[![](maze_gen_cover).png)](https://www.youtube.com/watch?v=_uRlxDQjWME)
+[![](maze_gen_cover.png)](https://www.youtube.com/watch?v=_uRlxDQjWME)
