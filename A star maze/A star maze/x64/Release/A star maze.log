@@ -1,0 +1,21 @@
+﻿  Source.cpp
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(119,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(239,10): warning C4244: '引數': 將 'time_t' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(263,11): warning C4244: '引數': 將 'time_t' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(277,11): warning C4244: '引數': 將 'time_t' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(291,11): warning C4244: '引數': 將 'time_t' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(305,11): warning C4244: '引數': 將 'time_t' 轉換為 'DWORD'，由於類型不同，可能導致資料遺失
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,28): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,38): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,46): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,56): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,68): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,72): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,85): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+D:\coding\frakw\maze_gen\A star maze\A star maze\Source.cpp(521,89): warning C4838: 從 'int' 到 'SHORT' 的轉換必須是縮小轉換
+  正在產生程式碼
+  6 of 362 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  A star maze.vcxproj -> D:\coding\frakw\maze_gen\A star maze\x64\Release\A star maze.exe
